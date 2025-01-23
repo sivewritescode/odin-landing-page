@@ -184,3 +184,15 @@ ul > li > a {
   width: 120px; 
   height: 40px; 
 }
+
+.copyright {
+  background-color: #1F2937;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+
+.copyright-text {
+  color: #F9FAF8;
+  padding: 40px; 
+}
