@@ -117,3 +117,30 @@ button {
   line-height: 1.2;
   padding-bottom: 90px; 
 }
+
+.quote {
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #E5E7EB;
+}
+
+.quote-text {
+  color: #1F2937;
+  font-size: 36px; 
+  font-style: italic;
+  width: 800px; 
+  padding-top: 150px; 
+} 
+
+.quote-author {
+  display: flex;
+  justify-content: center;
+  background-color: #E5E7EB;
+  text-align: right;
+  font-size: 28px; 
+  font-weight: 900; 
+  padding-left: 550px; 
+  padding-bottom: 70px; 
+}
