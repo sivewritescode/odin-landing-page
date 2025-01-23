@@ -1,1 +1,1 @@
-# odin-landing-page
+This is a project about creating an entire web page from scratch on my own based on a design given to me. This project will showcase my skills in CSS foundations and Flexbox once completed. 
