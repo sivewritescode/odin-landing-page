@@ -76,3 +76,43 @@ button {
   align-items: center;
 }
 
+.content {
+  display: flex; 
+  flex-direction: column;
+  align-items: center;
+}
+
+.random-info {
+  font-size: 36px; 
+  color: #1F2937;
+  font-weight: 900;
+  padding-top: 40px;
+  padding-bottom: 40px; 
+}
+
+.images {
+  display: flex;
+  gap: 60px;  
+}
+
+.square {
+  width: 200px; 
+  height: 200px; 
+  border-style: solid; 
+  border-color: #3882F6;
+  border-radius: 20px; 
+  margin-bottom: 10px; 
+}
+
+.subtexts {
+  display: flex; 
+  gap: 118.9px; 
+}
+
+.subtext {
+  max-width: 150px; 
+  max-height: 150px; 
+  text-align: center;
+  color: #73767c;
+  line-height: 1.2;
+}
