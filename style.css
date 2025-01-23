@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif; 
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: #1F2937;
+  color: white;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0; 
+  display: flex;
+  gap: 22px
+}
+
+ul > li > a {
+  text-decoration: none;
+  color: #F9FAF8; 
+}
+
+.header-logo {
+  margin-right: auto; 
+  font-size: 24px; 
+  font-weight: 900; 
+  color: #F9FAF8;
+}
+
+/* 
+  1. links not the same color as complete-website
+*/
