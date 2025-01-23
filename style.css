@@ -56,7 +56,7 @@ ul > li > a {
   width: 470px; 
 }
 
-button {
+#top-button > button {
   color: #F9FAF8;
   background-color: #3882F6;
   font-size: 18px; 
@@ -143,4 +143,44 @@ button {
   font-weight: 900; 
   padding-left: 550px; 
   padding-bottom: 70px; 
+}
+
+.call-to-action {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px; 
+  padding-bottom: 100px; 
+}
+
+.action-container {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  min-width: 1000px; 
+  background-color: #3882F6;
+  border-radius: 8px; 
+  padding: 60px 120px; 
+}
+
+.action-left {
+  margin-right: auto; 
+  color: #F9FAF8;
+}
+
+.action-text {
+  font-size: 26px; 
+  font-weight: 900; 
+}
+
+.action-right > button {
+  color: #F9FAF8;
+  background-color: #3882F6;
+  font-size: 18px; 
+  font-weight: 900; 
+  border-color: white; 
+  border-style: solid; 
+  border-radius: 7px;
+  width: 120px; 
+  height: 40px; 
 }
