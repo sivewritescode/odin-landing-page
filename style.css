@@ -68,3 +68,11 @@ h1 {
   border-radius: 8px;
   margin-top: 6px;
 }
+
+.right-hero {
+  background-color: #6d747d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 550px;
+}
