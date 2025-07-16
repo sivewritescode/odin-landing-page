@@ -178,3 +178,12 @@ h1 {
   border-color: #F9FAF8;
   border-radius: 8px;
 }
+
+.footer {
+  color: #F9FAF8;
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0px;
+}
