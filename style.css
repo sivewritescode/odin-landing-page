@@ -76,3 +76,11 @@ h1 {
   align-items: center;
   width: 550px;
 }
+
+.info-heading {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  margin: 35px 0px;
+}
