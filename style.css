@@ -116,3 +116,23 @@ h1 {
   text-align: center;
   margin-left: 5px;
 }
+
+.quote-container {
+  background-color: #E5E7EB;
+  display: flex;
+  flex-direction: column; 
+  padding: 150px 400px;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.quote-author {
+  align-self: flex-end;
+  font-size: 24px;
+  font-weight: bold;
+}
