@@ -77,10 +77,42 @@ h1 {
   width: 550px;
 }
 
-.info-heading {
+#info-heading {
   color: #1F2937;
   font-size: 36px;
   font-weight: 900;
   text-align: center;
-  margin: 35px 0px;
+  margin-top: 50px;
+  margin-bottom: 50px
+}
+
+.illustration-container {
+  padding-left: 400px;
+  padding-right: 400px;
+  padding-bottom: 180px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.illustration {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: #3882F6;
+  border-width: 4px;
+  border-radius: 18px;
+}
+
+.subtext {
+  color: #1F2937;
+  font-size: 17px;
+  width: 200px;
+  text-align: center;
+  margin-left: 5px;
 }
