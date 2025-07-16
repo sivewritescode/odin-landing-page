@@ -136,3 +136,45 @@ h1 {
   font-size: 24px;
   font-weight: bold;
 }
+
+.cta-container {
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.left-button-container {
+  margin-right: auto;
+}
+
+.button-container {
+  color: #F9FAF8;
+  background-color: #3882F6;
+  padding: 40px 100px;
+  border-radius: 10px;
+  display:flex;
+  align-items: center;
+}
+
+.cta-heading {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cta-subtext {
+  font-size: 18px;
+}
+
+.cta-button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  font-weight: 900;
+  font-size: 15px;
+  box-sizing: border-box;
+  width: 120px;
+  height: 35px;
+  border-style: solid;
+  border-color: #F9FAF8;
+  border-radius: 8px;
+}
